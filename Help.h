@@ -1,4 +1,4 @@
-/* Help.h - Sciemon help messages builder
+/* Help.h - Help Messages Management Library
  *
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none

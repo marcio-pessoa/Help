@@ -1,4 +1,4 @@
-/* Help.cpp - Sciemon help messages builder
+/* Help.cpp - Help Messages Management Library
  * 
  */
 
