@@ -8,7 +8,7 @@
 /* Help
  * 
  * Description
- *  Sciemon help messages builder.
+ *  Help messages builder.
  * 
  *  Help ()
  * 
